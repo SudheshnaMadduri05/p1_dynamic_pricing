@@ -40,7 +40,7 @@ Together, these features make the system more realistic, trustworthy, and well-s
 
 ## Deployment
 
-Live Application Link: (Add your deployment link here)
+Live Application Link: https://p1dynamicpricing-jrupu6bubhteuzwzjpmacw.streamlit.app/
 
 
 ## Demo Video
@@ -55,3 +55,4 @@ Watch the full demo here:
 Sudheshna Madduri  
 GitHub: https://github.com/SudheshnaMadduri05  
 LinkedIn: https://www.linkedin.com/in/sudheshna-madduri-77702a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
