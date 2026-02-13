@@ -1,8 +1,8 @@
 import random
 from datetime import datetime
-from .pricing_model import predict_price
-from .price_lock import lock_price, get_locked_price
-from .database import products
+from src.pricing_model import predict_price
+from src.price_lock import lock_price, get_locked_price
+from src.database import products
 
 
 def main():
