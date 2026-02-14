@@ -22,6 +22,17 @@ This project introduces an automated time-based pricing mechanism where prices a
 It also includes a smart pricing lock feature that prevents sudden or extreme changes in prices, helping maintain stability and fairness. This ensures that pricing decisions remain practical, reliable, and business-friendly.
 Together, these features make the system more realistic, trustworthy, and well-suited for real-world business use.
 
+## Tech Stack
+
+- Python  
+- NumPy  
+- Pandas  
+- Scikit-learn  
+- Linear Regression  
+- Joblib
+- Streamlit
+- Altair 
+
 
 ## How to Run
 
@@ -55,5 +66,6 @@ Watch the full demo here:
 Sudheshna Madduri  
 GitHub: https://github.com/SudheshnaMadduri05  
 LinkedIn: https://www.linkedin.com/in/sudheshna-madduri-77702a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
 
