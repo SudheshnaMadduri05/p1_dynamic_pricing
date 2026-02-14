@@ -1,6 +1,6 @@
 # Dynamic Pricing System
 ## Project Overview
-This is machine learning based training model that predicts the optimal price based on ase price, demand, inventory, user type, and time of the day.This system helps businesses increase their revenue by automatically adjusting prices based on data and predictions.
+This is machine learning based training model that predicts the optimal price based on ase price, demand, inventory, user type, and time of the day. This system helps businesses increase their revenue by automatically adjusting prices based on data and predictions.
 
 ## Problem Statement
 Traditional pricing methods usually rely on fixed prices that don’t change with the market. Because they can’t respond to real-time demand, competition, or customer behavior, businesses often miss out on potential revenue and may struggle with inefficient inventory management.
@@ -55,4 +55,5 @@ Watch the full demo here:
 Sudheshna Madduri  
 GitHub: https://github.com/SudheshnaMadduri05  
 LinkedIn: https://www.linkedin.com/in/sudheshna-madduri-77702a352?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
 
